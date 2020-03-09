@@ -4,7 +4,7 @@ You can find all Entrian Audio plugins in the [VCV Plugin Library](https://vcvra
 
 Here are the documentation pages and demo videos for all Entrian Audio plugins:
 
-* [Entrian Sequencers](http://entrian.com/audio/entrian-sequencers.html): Currently in private Beta, due for release in early March: a DAW-style Timeline sequencer, a polyphonic paino-roll sequencer, and a powerful drum sequencer.
+* [Entrian Sequencers](http://entrian.com/audio/entrian-sequencers.html): A DAW-style Timeline sequencer, a polyphonic paino-roll sequencer, and a powerful drum sequencer.
 * [Entrian Free](http://entrian.com/audio/entrian-free.html): a free plugin that includes a pitch and envelope follower.
 * [Entrian Acoustic Drums](http://entrian.com/audio/entrian-acoustic-drums.html): 27 sampled percussion instruments: drums, hi-hats, cymbals, and many other percussion instruments, all professionally recorded for this plugin.
 
