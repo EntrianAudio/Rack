@@ -1,6 +1,6 @@
 # Entrian Audio Rack Plugins
 
-You can find all Entrian Audio plugins in the [VCV Plugin Library](https://vcvrack.com/plugins#Entrian).
+You can find all Entrian Audio plugins in the [VCV Plugin Library](https://library.vcvrack.com/?query=Entrian).
 
 Here are the documentation pages and demo videos for all Entrian Audio plugins:
 
